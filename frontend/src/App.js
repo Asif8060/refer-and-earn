@@ -37,7 +37,7 @@ function App() {
     <div className="bg-gray-100 font-sans">
       {/* Navbar */}
       <nav className="bg-white p-4 shadow-md flex justify-between items-center fixed top-0 w-full z-10">
-        <h1 className="text-2xl font-extrabold text-blue-600">Refer & Earn</h1>
+        <h1 className="text-2xl font-extrabold text-blue-600">Accredian</h1>
         <button
           onClick={() => setIsOpen(true)}
           className="bg-gradient-to-r from-blue-500 to-purple-500 text-white px-6 py-2 rounded-lg shadow-lg transform hover:scale-105 transition-all"
